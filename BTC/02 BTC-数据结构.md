@@ -16,7 +16,9 @@
 - 根哈希值在block header里面。
 
 ### 验证交易的可信性
-<img src="../pic/Pasted image 20240711184141.png" width=250>
+
+
+![[Pasted image 20240711184141.png]]
 
 说明：
 - 轻节点具有交易的默克尔树的跟哈希。
@@ -31,7 +33,11 @@
 
 ### block header
 
-- 交易默克尔树的跟哈希
+- 协议
+- 前一个区块头的HASH。
+- 交易的默克尔根HASH。
+- target，目标值。
+- Nonce，随机数值。
 
 ### block body
 
