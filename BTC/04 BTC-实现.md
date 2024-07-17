@@ -17,13 +17,11 @@ ETH
 ## 区块：
 
 #### 块头信息
-
-![[Pasted image 20240717175227.png]]
+<img src="../pic/Pasted image 20240717175227.png" width=400>
 
 
 #### 交易的默克尔树
-
-![[Pasted image 20240717175427.png]]
+<img src="../pic/Pasted image 20240717175427.png" width=300>
 
 
 
