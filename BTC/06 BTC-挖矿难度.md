@@ -4,7 +4,7 @@
 - H(block header) <= target
 - 算法SHA-256
 - 挖矿难度与目标阈值成反比。
-<img src="../pic/Pasted image 20240718175143.png" width=300>
+- ![](../pic/Pasted%20image%2020240718175143.png)
 
 
 #### 出块时间太短
@@ -26,12 +26,15 @@
 - 设置恶意的target则不会被其他节点接受区块。
 
 #### 算力的曲线
-<img src="../pic/Pasted image 20240718180319.png" width=400>
+![](../pic/Pasted%20image%2020240718180319.png)
+
 
 #### 挖矿难度
-<img src="../pic/Pasted image 20240718180348.png" width=400>
+![](../pic/Pasted%20image%2020240718180348.png)
+
 
 
 
 #### 出块时间
-<img src="../pic/Pasted image 20240718180439.png" width=400>
+![](../pic/Pasted%20image%2020240718180439.png)
+
