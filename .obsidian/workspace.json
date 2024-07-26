@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "690b395efa6d6527",
+    "type": "split",
+    "children": [
+      {
+        "id": "54115d1be2bcf440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c75fdc4d0dd52e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETH/01-ETH-概述.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "516468f97f52c4e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "92bbdc43191d322e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "696173a5b24def7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f5b78d9a60d3c33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bda2b77fc18eabbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "91a351f59c922605",
+    "type": "split",
+    "children": [
+      {
+        "id": "b08044c94a7aef8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "379905643f28ab10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ETH/01-ETH-概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52b011d1364535cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ETH/01-ETH-概述.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "473dc03b14e742a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "03bef2645f225ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ETH/01-ETH-概述.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "5c75fdc4d0dd52e5",
+  "lastOpenFiles": [
+    "ETH/02-ETC-账户.md",
+    "ETH/03-ETH-状态树.md",
+    "ETH/01-ETH-概述.md",
+    "pic/Pasted image 20240725225711.png",
+    "pic/Pasted image 20240725225444.png",
+    "pic/Pasted image 20240725224916.png",
+    "pic/Pasted image 20240725224548.png",
+    "Pasted image 20240725225711.png",
+    "Pasted image 20240725225444.png",
+    "Pasted image 20240725224916.png",
+    "Pasted image 20240725224548.png"
+  ]
+}
